@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	gitTest연습
-	하이반갑
+
 </body>
 </html>
