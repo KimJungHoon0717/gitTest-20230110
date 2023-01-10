@@ -8,5 +8,6 @@
 </head>
 <body>
 	gitTest연습
+	하이
 </body>
 </html>
